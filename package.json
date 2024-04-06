@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "father build -w",
     "build": "father build",
-    "release":"release"
+    "release": "release-it"
   },
   "keywords": [
     "zustand",
@@ -19,6 +19,6 @@
   "license": "ISC",
   "devDependencies": {
     "father": "^4.4.0",
-    "release": "^6.3.1"
+    "release-it": "^17.1.1"
   }
 }
