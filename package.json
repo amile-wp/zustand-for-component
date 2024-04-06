@@ -8,15 +8,17 @@
   ],
   "scripts": {
     "dev": "father build -w",
-    "build": "father build"
+    "build": "father build",
+    "release":"release"
   },
   "keywords": [
     "zustand",
     "component"
   ],
-  "author": "",
+  "author": "baba-yaga",
   "license": "ISC",
   "devDependencies": {
-    "father": "^4.4.0"
+    "father": "^4.4.0",
+    "release": "^6.3.1"
   }
 }
