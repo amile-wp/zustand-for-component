@@ -2,7 +2,7 @@
   "name": "zustand-for-component",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "esm/index.js",
   "files": ["esm"],
   "scripts": {
     "dev":"father build -w",
